@@ -20,6 +20,7 @@
     "webpack-cli": "^3.3.10"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "browse": "open ./dist/index.html"
   }
 }
