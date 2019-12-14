@@ -25,6 +25,7 @@
   },
   "scripts": {
     "build": "webpack",
+    "lint": "eslint src/**.tsx",
     "browse": "open ./dist/index.html"
   }
 }
