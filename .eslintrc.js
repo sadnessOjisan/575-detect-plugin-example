@@ -11,6 +11,6 @@ module.exports = {
   },
   plugins: ["detect-haiku"],
   rules: {
-    "detect-haiku": 2
+    "detect-haiku/forbid_haiku": 2
   }
 };
