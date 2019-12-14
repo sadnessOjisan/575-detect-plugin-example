@@ -1495,10 +1495,10 @@ babel-messages@^6.23.0:
   dependencies:
     babel-runtime "^6.22.0"
 
-babel-plugin-detect-haiku@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/babel-plugin-detect-haiku/-/babel-plugin-detect-haiku-0.0.1.tgz#d75d01d6d3f1920b79985527edae088def8ef391"
-  integrity sha512-A3i9h2xDD5k1XqXQFel5je0afXDZJCEjKtLJYgnixw7LGJZse4RC8TKuta0Ku3HW8NYE6GMW8QmfMdJRysD86Q==
+babel-plugin-detect-haiku@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/babel-plugin-detect-haiku/-/babel-plugin-detect-haiku-0.0.2.tgz#2f49cb92c2b01ae402a57580b81934e9984e4c77"
+  integrity sha512-30NJWPfOFZ7MyU5cd/0ZivZMaf/IRKrLWeNYa0LoH84yNU/uzosdCeP90jfOiCB0APLjaiwTbtRcU3KE8W3m4g==
   dependencies:
     babel-cli "^6.26.0"
     js-word-count-for-haiku "^1.0.2"
@@ -3169,6 +3169,11 @@ growly@^1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/growly/-/growly-1.3.0.tgz#f10748cbe76af964b7c96c93c6bcc28af120c081"
   integrity sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE=
+
+haiku-core@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/haiku-core/-/haiku-core-0.0.1.tgz#4d97ced060a4f0e6577b1496570ad35a9eca6bef"
+  integrity sha512-oYvnXd56uwtDc3h6WWcv4SCs3SF8S8OPpau3Gl15KAh2bftovKcbDpLYUnITA3buj1D13VUC0qs1L50wpB6ZWw==
 
 handlebars@^4.1.2:
   version "4.5.3"

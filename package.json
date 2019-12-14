@@ -6,6 +6,7 @@
   "author": "sadness_ojisan <sadness.ojisan@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "haiku-core": "^0.0.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
@@ -16,7 +17,7 @@
     "@babel/preset-typescript": "^7.7.2",
     "@types/react": "^16.9.11",
     "babel-loader": "^8.0.6",
-    "babel-plugin-detect-haiku": "^0.0.1",
+    "babel-plugin-detect-haiku": "^0.0.2",
     "eslint": "^6.7.2",
     "eslint-plugin-detect-haiku": "^0.0.9",
     "eslint-plugin-flowtype": "^4.5.2",
