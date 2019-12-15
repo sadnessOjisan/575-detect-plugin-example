@@ -8,10 +8,12 @@ babel-plugin の動作を確認
 
 ```zsh
 $ yarn build
+> document childNodes document
 ```
 
 eslint-plugin の動作を確認
 
 ```zsh
 $ yarn lint
+>   9:9  error  俳句を検知しました. => document childNodes document  detect-haiku/forbid_haiku
 ```
